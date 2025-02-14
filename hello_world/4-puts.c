@@ -1,7 +1,8 @@
-
 #include <stdio.h>
-
-/*Initialized the program*/
+/**
+* main - principal funtion
+* Return: return 0 if the program runs without problems
+*/
 int main(void)
 {
 	/*puts prints on screen the following text*/
