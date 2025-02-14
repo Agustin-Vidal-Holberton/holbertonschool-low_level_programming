@@ -3,3 +3,4 @@ Description of the projects:
 1-compiler: generates the compiled code o a C code and save it in an output file, usin a variable for the name and for the output the extension will bi *.o
 2:assembler: generates the assambly code o a C code and save it in an output file, usin a variable for the name and for the output the extension will bi *.s
 3-name: will compile a C file and create a executable named cisfun
+4-puts.c: is a program that shows on the screen a message followed by a new line
