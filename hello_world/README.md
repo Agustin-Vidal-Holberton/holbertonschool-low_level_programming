@@ -5,3 +5,4 @@ Description of the projects:
 3-name: will compile a C file and create a executable named cisfun
 4-puts.c: is a program that shows on the screen a message followed by a new line
 5-printf.c: will print on screen a massage
+6-size: prints the sizes of various types on the computer it is compiled and run on
