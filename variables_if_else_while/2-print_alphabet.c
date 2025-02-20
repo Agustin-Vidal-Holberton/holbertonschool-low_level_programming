@@ -12,5 +12,7 @@ int main(void)
 		putchar(letter); /*Prints the char letter*/
 	}
 
+	putchar('\n');
+
 	return (0);
 }
