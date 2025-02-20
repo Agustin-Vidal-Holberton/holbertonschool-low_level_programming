@@ -8,3 +8,4 @@ This READER.md file will describe all the tasks on the project C-Variables, if, 
 6-print_numberz.c: This prograrm will prints all single digits numbers of base 10 starting from 0, followed by a new line
 7-print_tebahpla.c: This program will prints the lowercase alphabet in reverse, followed by a new line
 8-print_base16.c: This program will print numbers 0-9 and letters a-f
+9-print_comb.c: This program will prints all possible combinations of single-digit numbers followed by a comma and a space
