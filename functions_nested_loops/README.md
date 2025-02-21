@@ -1,2 +1,3 @@
 This README file will lists the programs that are on the project C-Funtions, nested loops
-0-putchar: This program will print _putchar followed by a new line
+0-putchar.c: This program will print _putchar followed by a new line
+1-alphabet.c: This program will print the alphabet in lowercase, followed by a new line
