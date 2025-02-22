@@ -6,3 +6,4 @@ This README file will lists the programs that are on the project C-Funtions, nes
 4-isalpha.c: This program will checks for alphabetic character, return 1 if it's lowercase or uppercase  and 0 otherwise
 5-sign.c: Prints '+' if n is greater than zero, '0' if n is zero, and '-' if n is less than zero.
 6-abs.c: Returns the absolute value of number
+7-print_last_digit.c: Computes and prints the last digit of 'number'
