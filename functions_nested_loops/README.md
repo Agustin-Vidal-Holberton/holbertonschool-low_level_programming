@@ -9,3 +9,4 @@ This README file will lists the programs that are on the project C-Funtions, nes
 7-print_last_digit.c: Computes and prints the last digit of 'number'
 8-24_hours.c: Prints from 00:00 to 23:59, one per line.
 9-times_table.c: Prints the multiplication table in a formatted way
+10-add.c: Adds two integers and returns the result
