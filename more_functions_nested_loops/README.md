@@ -8,3 +8,4 @@ This file will list all the task of the C - More functions, more nested loops pr
 5-more_numbers.c: Prints numbers from 0 to 14, ten times
 6-print_line.c: Draws a straight line in the terminal
 7-print_diagonal.c: Draws a diagonal line on the terminal.
+8-print_square.c: Prints a square using the '#' character.
