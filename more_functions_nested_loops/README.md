@@ -10,3 +10,4 @@ This file will list all the task of the C - More functions, more nested loops pr
 7-print_diagonal.c: Draws a diagonal line on the terminal.
 8-print_square.c: Prints a square using the '#' character.
 9-fizz_buzz.c: Prints numbers from 1 to 100 with FizzBuzz rules.
+10-print_triangle.c: Prints a triangle using the character '#'
