@@ -7,3 +7,4 @@ This file will list all the task of the C - More functions, more nested loops pr
 4-print_rev.c: Prints a string in reverse followed by a new line
 5-rev_strings.c: Reverses a string
 6-puts2.c: Prints every other character of a string, starting with the first
+7-puts_half.c: Prints the second half of a string
