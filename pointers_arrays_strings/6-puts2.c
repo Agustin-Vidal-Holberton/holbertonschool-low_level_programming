@@ -7,7 +7,7 @@ void puts2(char *str)
 {
 	int i = 0;
 
-	while (str[i] != '\0' && i < 447) /*Recorramos la cadena*/
+	while (str[i] != '\0' && i < 446) /*Recorramos la cadena*/
 	{
 		_putchar(str[i]); /*Imprimio el caracter en la posicion actual*/
 		i += 2; /*Saltamos un caracter*/
