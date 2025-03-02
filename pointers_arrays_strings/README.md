@@ -9,3 +9,4 @@ This file will list all the task of the C - More functions, more nested loops pr
 6-puts2.c: Prints every other character of a string, starting with the first
 7-puts_half.c: Prints the second half of a string
 8-print_array.c: Prints n elements of an array of integers 
+9-strcpy.c: Copies the string pointed to by src, including the null byte
