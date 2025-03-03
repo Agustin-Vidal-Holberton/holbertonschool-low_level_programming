@@ -11,3 +11,4 @@ This file will list all the task of the C - More functions, more nested loops pr
 8-print_array.c: Prints n elements of an array of integers 
 9-strcpy.c: Copies the string pointed to by src, including the null byte
 100-atoi.c: Converts a string to an integer
+0-strcat.c: Concatenates two string
