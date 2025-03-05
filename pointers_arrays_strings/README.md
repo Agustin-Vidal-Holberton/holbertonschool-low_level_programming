@@ -13,3 +13,4 @@ This file will list all the task of the C - More functions, more nested loops pr
 100-atoi.c: Converts a string to an integer
 0-strcat.c: Concatenates two string
 1-strncat.c : Concatenates two strings using at most n bytes from src.
+2-strncpy.c : This function copies a string
