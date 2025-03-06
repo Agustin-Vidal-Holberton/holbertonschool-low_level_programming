@@ -15,3 +15,4 @@ This file will list all the task of the C - More functions, more nested loops pr
 1-strncat.c : Concatenates two strings using at most n bytes from src.
 2-strncpy.c : This function copies a string
 3-strcmp.c: Compares two strings
+4-rev_array.c: Reverses the content of an array of integers.
