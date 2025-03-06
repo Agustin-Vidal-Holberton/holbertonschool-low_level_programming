@@ -1,25 +1,26 @@
 #include "main.h"
 /**
-* _strchr - Ubica un caracter en una cadena de texto.
+* _strchr - busca la primera aparicion de un caracter en una cadena.
 * @s: Puntero a la cadena de caracteres donde se buscara.
 * @c: Caracter a buscar en la cadena.
 * Return: Retorna un puntero a la primera aparicion de c en s,
-* o NULL si el caracter no se encuentra.
+* o NULL si no se encuentra.
 */
 char *_strchr(char *s, char c)
 {
+	int i;
 	/*Recorre la cadena hasta encontrar el caracter o llegar al final*/
-	while (*s != '\0')
+	for (i = 0; s[i] != '\0'; i++)
 	{
-		if (*s == c) /*Si encontramoms el caracter, devolvemos direccion*/
+		if (s[i] == c) /*Si encontramoms el caracter, devolvemos direccion*/
 		{
-			return (s);
+			return (s + i);
 		}
 	}
-	/*Si c es '\0', devolvemos su posicion en la cadena*/
-	if (*s == c)
+	/*Si el caracter buscado es '\0', devolvemos su direccion en la cadena*/
+	if (s[i] == c)
 	{
-		return (s);
+		return (s + i);
 	}
-	return (0);
+	return (0);/*Si no encontramos el caracter, retornamos NULL*/
 }

@@ -21,3 +21,4 @@ This file will list all the task of the C - More functions, more nested loops pr
 7-leet.c: Encodes a string into 1337.
 0-memset.c: fills memory with a constant byte.
 1-memcpy.c: copies memory area.
+2-strchr.c: locates a character in a string.
