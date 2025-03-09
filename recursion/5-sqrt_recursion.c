@@ -6,7 +6,7 @@
  * Return: La raíz cuadrada de n o -1 si no tiene una exacta.
  */
 int _sqrt_helper(int n, int guess)
-{	
+{
 	/*Si el cuadrado supera n, no hay raiz exacta*/
 	if (guess * guess > n)
 	{
