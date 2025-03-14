@@ -1,15 +1,23 @@
 #include "main.h"
 #include <stdio.h>
+#include <stdlib.h>
+
 /**
-* main - check the code
-*
-* Return: Always 0.
-*/
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
-    int n;
+    char *s;
 
-    n = _strlen_recursion("Corbin Coleman");
-    printf("%d\n", n);
+    s = str_concat("Best ", "School");
+    if (s == NULL)
+    {
+        printf("failed\n");
+        return (1);
+    }
+    printf("%s\n", s);
+    free(s);
     return (0);
 }
