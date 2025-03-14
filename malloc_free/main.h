@@ -60,5 +60,6 @@ int _sqrt_helper(int n, int guess);
 int is_prime_number(int n);
 int check_prime(int n, int div);
 char *create_array(unsigned int size, char c);
+char *_strdup(char *str);
 
 #endif
